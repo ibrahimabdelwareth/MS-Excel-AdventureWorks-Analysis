@@ -11,5 +11,6 @@ The dashboard provides insights into:
 - *AdventureWorks Database* — as the data source  
 
 ## 📊 Dashboard Preview
-(Add a screenshot or link to your Power BI report here)
+<img width="1344" height="584" alt="Screenshot 2025-10-09 091350" src="https://github.com/user-attachments/assets/ae57ed69-dab4-4bd8-9601-8ce87e6084a7" />
+
 
